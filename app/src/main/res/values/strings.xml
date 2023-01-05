@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FerryGo!</string>
+    <string name="car_ferry_tickets">Car Ferry Tickets</string>
+    <string name="number_of_tickets">Input amount of tickets desired:</string>
+    <string name="hint">Number of Tickets</string>
+    <string name="total_tickets">Your total will be: $%d</string>
+    <string name="calculate">Let\'s Go!</string>
+    <string name="img_description">A ferry swimming off into the sunset</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <style name="numOfTickets">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="car_ferry_tickets">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/purple_500</item>
+    </style>
+
+    <style name="CalcButton">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/gray</item>
+    </style>
+</resources>
